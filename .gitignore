@@ -28,6 +28,10 @@ build/Release
 
 # Dependency directories
 node_modules
+typings
+.idea
+app/**/*.js
+app/**/*.js.map
 jspm_packages
 
 # Optional npm cache directory
